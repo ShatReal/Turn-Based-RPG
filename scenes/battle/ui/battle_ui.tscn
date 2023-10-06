@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bf15ma5s5p4kf"]
+
+[ext_resource type="Script" path="res://scenes/battle/ui/battle_ui.gd" id="1_ximlb"]
+
+[node name="BattleUI" type="CanvasLayer"]
+script = ExtResource("1_ximlb")

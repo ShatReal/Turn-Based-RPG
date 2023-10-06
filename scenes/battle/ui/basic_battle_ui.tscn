@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://c1g7neqk81kn3"]
+
+[ext_resource type="PackedScene" uid="uid://bf15ma5s5p4kf" path="res://scenes/battle/ui/battle_ui.tscn" id="1_rsfxf"]
+
+[node name="BasicBattleUI" instance=ExtResource("1_rsfxf")]
